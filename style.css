@@ -1,0 +1,70 @@
+body {
+  margin: 20px;
+}
+
+.avatar {
+  width: 150px;
+}
+
+.card {
+  border: 1px dotted rgb(255, 255, 255);
+  padding: 20px;
+  justify-content: space-around;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  width: 400px;
+  display: flex;
+  border-bottom: 15px solid #aa00ff;
+  background-color: #c1e0fd;
+  
+}
+
+.moon {
+  width: 200px;
+}
+
+.pricing {
+  display: flex;
+}
+
+.for-div {
+  margin-right: 10px;
+}
+
+.paper-pro {
+  font-style: italic;
+}
+
+.border-blue {
+  
+  border: 0px dotted blue;
+  
+}
+
+p {
+  text-align: center;
+  color: #2b2839;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
